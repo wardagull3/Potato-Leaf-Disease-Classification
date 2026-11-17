@@ -1,0 +1,36 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Original training dataset
+data/
+
+# Local SQLite database
+fyp.db
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# User-uploaded images and generated prediction files
+application/static/uploads/*
+!application/static/uploads/.gitkeep
