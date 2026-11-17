@@ -101,7 +101,7 @@ FYP_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/wardagull3/Potato-Leaf-Disease-Classification.git
 cd YOUR_REPOSITORY
 ```
 
