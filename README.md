@@ -145,6 +145,21 @@ The model development notebook is available in the `development/` directory.
 
 The original training dataset is not included in this repository because of its size. The trained model is included, so the Flask application can make predictions without retraining the model.
 
+## Dataset
+
+This project uses the **Potato** subset of the PlantVillage dataset, downloaded from the original PlantVillage-Dataset repository.
+
+The dataset contains 2,152 color images across three categories:
+
+**Original Dataset Repository:**  
+https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
+
+**Research Paper:**
+
+Mohanty, S. P., Hughes, D. P., & Salathé, M. (2016). *Using Deep Learning for Image-Based Plant Disease Detection*. Frontiers in Plant Science, 7, 1419.
+
+https://doi.org/10.3389/fpls.2016.01419
+
 ## Future Improvements
 
 - Improve classification performance using additional and diverse training images.
